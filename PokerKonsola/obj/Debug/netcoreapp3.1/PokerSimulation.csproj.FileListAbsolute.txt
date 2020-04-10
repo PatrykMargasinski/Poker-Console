@@ -1,0 +1,11 @@
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\bin\Debug\netcoreapp3.1\PokerSimulation.exe
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\bin\Debug\netcoreapp3.1\PokerSimulation.deps.json
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\bin\Debug\netcoreapp3.1\PokerSimulation.runtimeconfig.json
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\bin\Debug\netcoreapp3.1\PokerSimulation.runtimeconfig.dev.json
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\bin\Debug\netcoreapp3.1\PokerSimulation.dll
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\bin\Debug\netcoreapp3.1\PokerSimulation.pdb
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\obj\Debug\netcoreapp3.1\PokerSimulation.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\obj\Debug\netcoreapp3.1\PokerSimulation.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\obj\Debug\netcoreapp3.1\PokerSimulation.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\obj\Debug\netcoreapp3.1\PokerSimulation.dll
+C:\Users\Patryk\Desktop\Projekty C#\PokerKonsola\PokerKonsola\obj\Debug\netcoreapp3.1\PokerSimulation.pdb
